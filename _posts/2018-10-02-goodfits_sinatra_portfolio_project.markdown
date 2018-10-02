@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "GoodFits(Sinatra Portfolio Project)"
-date:       2018-10-02 22:21:39 +0000
+date:       2018-10-02 18:21:40 -0400
 permalink:  goodfits_sinatra_portfolio_project
 ---
 
