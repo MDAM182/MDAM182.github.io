@@ -1,15 +1,14 @@
 # Site settings
+author: Michael Morris
 title: IT"S TOO EASY TO QUIT!
 header-img: img/home-bg.png
 email: mdam2345@gmail.com
-copyright_name: MDAM182
+copyright_name: Michael Morris
 description: > # this means to ignore newlines until "baseurl:"
   It's not impossible to have a mind shift overnight 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MDAM182
-learn_profile: MDAM182
-email_username: mdam2345@gmail.com
 
 # Build settings
 markdown: kramdown
