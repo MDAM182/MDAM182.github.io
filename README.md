@@ -2,7 +2,7 @@
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+###[View Live Demo &rarr;](https://mdam182.github.io/texas-pop-growth-map/)
 
 ## Before You Begin
 
